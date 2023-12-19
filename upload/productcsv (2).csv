@@ -1,0 +1,4 @@
+productName,lotNo,HSNCode,articleCode,GST,Rate_Unit,barcodeId,quantity,category,storeName,brand
+CROMA 4SL SS TOASTER CRK6046,484,,100430,0.18,10,4100,1,Toaster,store 10,Croma
+CROMA STEAM IRON 1250W CRK2049 BLUE,484,,153529,0.18,,4101,1,AC,store2,Croma
+CROMA BENDABLE MASSAGER,484,,155196,,10,4102,1,Massager,store2,Croma
